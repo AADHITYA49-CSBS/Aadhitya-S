@@ -20,7 +20,7 @@ Computer Sciencne Business System Student
 
 
 
-![Aadhitya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadhitya's&theme=dark&show_icons=true&&hide=issues,contribs)
+![Aadhitya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AADHITYA49-CSBS&theme=dark&show_icons=true&&hide=issues,contribs)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aadhitya49?theme=dark&font=Marcellus&ext=contest)
 
